@@ -21,3 +21,17 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Android local config
+android/local.properties
+android/.gradle/
+android/.idea/
+android/build/
+android/app/build/
+
+# Android
+android/local.properties
+android/.gradle/
+android/.idea/
+android/build/
+android/app/build/
